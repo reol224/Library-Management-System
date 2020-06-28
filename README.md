@@ -5,7 +5,7 @@
 **ABOUT**
 
 
------
+
 
 
 
@@ -15,7 +15,7 @@
 **FEATURES**
 
 
------
+
 
 
 * You can **add/update/delete** books.
@@ -26,7 +26,7 @@
 **TO BE ADDED**
 
 
------
+
 
 
 * lending books/returning them
