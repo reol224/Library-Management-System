@@ -1,2 +1,31 @@
-# Library Management System
- a library management system
+													  LIBRARY MANAGEMENT SYSTEM
+
+-----
+
+**ABOUT**
+
+
+-----
+
+
+
+*A minimalistic library management system.*
+*Uses .txt files for now.*
+
+**FEATURES**
+
+
+-----
+
+
+* You can **add/update/delete** books.
+* You can **add/update/delete** readers.
+* You can search for a book by its **title/author**.
+* You can search for a reader by his/her **CNP**.
+
+**TO BE ADDED**
+* lending books/returning them
+* a list with unreturned books
+* database
+* GUI
+

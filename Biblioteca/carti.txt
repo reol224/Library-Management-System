@@ -1,0 +1,6 @@
+numeCarte1,autorCarte1
+numeCarte1,autorCarte1
+numeCarte2,autorCarte2
+numeTest,autorTestxx
+x5,2911207241555
+x5,39481
