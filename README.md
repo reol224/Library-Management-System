@@ -1,4 +1,4 @@
-													  LIBRARY MANAGEMENT SYSTEM
+## LIBRARY MANAGEMENT SYSTEM
 
 -----
 
@@ -24,6 +24,11 @@
 * You can search for a reader by his/her **CNP**.
 
 **TO BE ADDED**
+
+
+-----
+
+
 * lending books/returning them
 * a list with unreturned books
 * database
