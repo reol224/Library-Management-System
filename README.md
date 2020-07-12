@@ -29,6 +29,6 @@
 
 
 
-* lending books/returning them
+* lending books/returning them (added the methods)
 * a list with unreturned books
 
