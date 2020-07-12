@@ -31,6 +31,4 @@
 
 * lending books/returning them
 * a list with unreturned books
-* database
-* GUI
 
