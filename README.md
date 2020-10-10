@@ -32,3 +32,6 @@
 * lending books/returning them (added the methods)
 * a list with unreturned books
 
+• here is the link to the cooler version (has database now)
+https://github.com/reol224/Library-Management-System-WITH-DB
+
